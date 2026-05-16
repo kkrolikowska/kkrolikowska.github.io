@@ -1,0 +1,20 @@
+Create personal professional page from scratch. Website should have modern look and be in two versions: light and dark with appropriate button. Use typography and design style that works for this niche. Use icons from Font Awesome instead of using emoji. Create these sections for the site:
+  Header/Nav
+  Hero
+  Professional Experience
+  Skills
+  Hobbies
+  Footer
+
+Open Profile.pdf file in src directory and analyze its content. Try to adjust persona of the personal webpage to the personality of the subject.
+
+Have good content for SEO, and contact information visible. Generate at least five images that make sense for this design and include images that showcase their best work.
+
+Skills and hobbies generate based on informations in professional experience
+
+Website have to be responsive and should work good on mobile devices. On mobile header / nav should become a hamburger menu.
+
+Use image in src directory as profile photo.
+Images should be optimized in terms of its size. 
+Sections and images should be lazy-loaded.
+Implement smooth scrolling behavior.
