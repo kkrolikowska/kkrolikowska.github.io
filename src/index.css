@@ -12,6 +12,7 @@
   --card-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
   --border-color: #e2e8f0;
   --nav-bg: rgba(248, 250, 252, 0.8);
+  --footer-bg: #1e293b;
 }
 
 [data-theme='dark'] {
@@ -24,6 +25,7 @@
   --card-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.5), 0 4px 6px -4px rgb(0 0 0 / 0.5);
   --border-color: #334155;
   --nav-bg: rgba(15, 23, 42, 0.8);
+  --footer-bg: #020617;
 }
 
 * {

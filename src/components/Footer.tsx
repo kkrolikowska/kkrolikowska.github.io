@@ -3,7 +3,7 @@ import { profileData } from '../data/profile';
 
 export const Footer: FC = () => {
   return (
-    <footer id="contact" style={{ backgroundColor: 'var(--text-color)', color: 'white', padding: '5rem 0 2rem' }}>
+    <footer id="contact" style={{ backgroundColor: 'var(--footer-bg)', color: 'white', padding: '5rem 0 2rem', transition: 'background-color 0.3s ease' }}>
       <div className="container">
         <div style={{
           display: 'grid',
